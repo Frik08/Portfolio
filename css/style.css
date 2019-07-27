@@ -1,0 +1,127 @@
+/* font-family: 'Rubik', sans-serif; */
+
+
+/* font-family: 'Ubuntu', sans-serif; */
+
+html {
+    scroll-behavior: smooth;
+    font-family: 'Rubik';
+}
+
+body {
+    background-color: #F6F6FB;
+}
+
+.navbar {
+    background-color: #313133;
+}
+
+.navbar-brand h1 {
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#portfolio {
+    padding-top: 69px;
+    padding-bottom: 200px;
+    background-color: #F6F6FB;
+    color: #313133;
+    font-family: 'Rubik';
+    scroll-margin-top: 50px;
+}
+
+#portfolio h2 {
+    padding-bottom: 0px;
+    font-size: 70px;
+}
+
+#about {
+    padding-top: 23px;
+    padding-bottom: 200px;
+    background-color: #F6F6FB;
+    color: #313133;
+    font-family: 'Rubik';
+    font-size: 23px;
+    scroll-margin-top: 100px;
+}
+
+#about h2 {
+    font-size: 70px;
+}
+
+#about col {
+    margin-bottom: 20px;
+}
+
+#about i {
+    font-size: 100px;
+    color: #e34b4b;
+}
+
+#contact {
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#contact h2 {
+    padding-bottom: 0px;
+    padding-top: 0px;
+    font-size: 70px;
+}
+
+#contact form {
+    padding-bottom: 50px;
+    padding-top: 100px;
+}
+
+a:hover {
+    color: #e34b4b;
+}
+
+nav a {
+    color: #F6F6FB;
+}
+
+section a {
+    color: #F6F6FB;
+    padding: 23px;
+}
+
+footer a {
+    color: #333;
+}
+
+.page-footer {
+    padding-top: 23px;
+    padding-bottom: 64px;
+    background-color: #F6F6FB;
+    color: #313133;
+    font-family: 'Rubik';
+}
+
+.list-inline-item {
+    color: #313133;
+}
+
+hr {
+    border: none;
+    height: 1px;
+    color: #333;
+    background-color: #333;
+}
+
+footer hr {
+    border: none;
+    height: 3px;
+    color: #333;
+    background-color: #333;
+}
+
+.col {
+    padding: 20px;
+}
+
+#contact {
+    background-color: #F6F6FB;
+    color: #313133;
+    font-family: 'Rubik';
+}
