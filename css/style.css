@@ -22,7 +22,7 @@ body {
 
 #portfolio {
     padding-top: 69px;
-    padding-bottom: 200px;
+    padding-bottom: 50px;
     background-color: #F6F6FB;
     color: #313133;
     font-family: 'Rubik';
@@ -58,13 +58,12 @@ body {
 }
 
 #contact {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    background-color: #F6F6FB;
+    color: #313133;
+    font-family: 'Rubik';
 }
 
 #contact h2 {
-    padding-bottom: 0px;
-    padding-top: 0px;
     font-size: 70px;
 }
 
@@ -102,11 +101,12 @@ footer a {
     color: #313133;
 }
 
-hr {
+hr.hrbody {
     border: none;
     height: 1px;
     color: #333;
     background-color: #333;
+    margin-top: 100px;
 }
 
 footer hr {
@@ -120,8 +120,18 @@ footer hr {
     padding: 20px;
 }
 
-#contact {
-    background-color: #F6F6FB;
-    color: #313133;
-    font-family: 'Rubik';
+.pfoot {
+    text-align: center;
+    font-size: 20px;
+}
+
+.img-fluid {
+    width: 100% !important;
+    height:auto;
+}
+
+.row {
+    padding: 25px;
+    align-content: left;
+    font-size: 16px;
 }
