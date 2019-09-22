@@ -135,3 +135,7 @@ footer hr {
     align-content: left;
     font-size: 16px;
 }
+
+.pfoot {
+    text-align: center;
+}
